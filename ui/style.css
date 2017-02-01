@@ -1,6 +1,7 @@
 body {
      background-color:red;
-    
+    background-image:url(madi.png);
+    background-repeat:no-repeat;
     
     font-family: sans-serif;
     
