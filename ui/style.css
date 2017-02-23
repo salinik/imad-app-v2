@@ -25,3 +25,34 @@ body {
     height: 200px;
 }
 
+.headr{
+padding-top:10px;
+text-align:center;
+padding-left:50%;
+height:40px;
+background-color:#FFFFFF;
+
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+	padding:0;
+    overflow: hidden;
+    background-color:#FFFFFF;
+	
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color:#FF0066;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+
+
